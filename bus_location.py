@@ -1,5 +1,5 @@
 import os
-os.chdir('D:\\OneDrive\\My Sogang University\\20180901 CT Class\\2018년교재\\bus')
+os.chdir('D:\\OneDrive\bus')
 
 #with open('routestation20181204_2.txt', encoding='euckr')as f: d = f.read()
 #d = d.split()
